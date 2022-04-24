@@ -4,8 +4,10 @@ Music Application made in Tauri
 
 ## Dev Usage
 
-`yarn`
-`yarn tauri dev`
+```shell
+yarn
+yarn tauri dev
+```
 
 ## Usage
 
