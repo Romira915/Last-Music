@@ -2,10 +2,9 @@
 	"version": "2.0.0",
 	"tasks": [
 		{
-			"type": "shell",
-			"command": "yarn",
+			"type": "cargo",
+			"command": "tauri",
 			"args": [
-				"tauri",
 				"dev"
 			],
 			"group": {
